@@ -1,5 +1,5 @@
 - 👋 Ciao, io sono @Sconosciuto3000
-- 👀 Sono interessato in JavaScript and Python
+- 👀 Sono interessato in JavaScript e Python
 - 🌱 Sto imparando JavaScript e HTML
 - 💞️ Non collaboro con nessuno
 
